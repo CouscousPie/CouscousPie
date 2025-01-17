@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @CouscousPie
-- 👀 I’m interested in Data and Software Engineering
-- 🌱 I’m currently learning data engineering and analytics tooling, engineering best practices, to set up my own development environment and implementing everything
-- 🤝 I’m looking to collaborate on open source projects that make others more productive
-- 💕 I'm really into CLIs and backend
-- 📫 If you want to reach me, just drop me a casual message on LinkedIn
+Hi, I’m @CouscousPie, a driven nerd for everything surrounding terminal work, Linux and OpenSource. Having a career in DevOps/Platform Engineering and currently looking for new opportunities, that may or may not leverage my expertise in Data Engineering as well.
